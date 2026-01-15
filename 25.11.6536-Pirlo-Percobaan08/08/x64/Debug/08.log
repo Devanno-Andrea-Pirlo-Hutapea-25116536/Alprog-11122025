@@ -1,0 +1,15 @@
+﻿  drgn.cpp
+  searching.cpp
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(15,2): error C3861: 'slWindow': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(25,24): error C3861: 'slLoadTexture': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(30,10): error C3861: 'slShouldClose': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(32,3): error C3861: 'slSetBackColor': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(35,3): error C3861: 'slSprite': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(37,18): error C3861: 'slGetDeltaTime': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(46,4): error C2146: syntax error: missing ';' before identifier 'ST068'
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(46,4): error C2065: 'ST068': undeclared identifier
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(48,4): error C2143: syntax error: missing ';' before 'if'
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(53,3): error C3861: 'slRender': identifier not found
+D:\ilo\tgs\alprog\Pirlo-25.11.6536-percobaan\08\drgn.cpp(56,2): error C3861: 'slClose': identifier not found
+  ttt.cpp
+  Generating Code...
