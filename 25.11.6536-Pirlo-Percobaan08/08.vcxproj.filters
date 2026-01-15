@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="avarage.cpp">
+    <ClCompile Include="inventaris.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="searching.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ttt.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="drgn.cpp">
+    <ClCompile Include="2026.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
