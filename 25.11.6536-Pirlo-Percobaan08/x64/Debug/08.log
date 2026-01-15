@@ -1,3 +1,0 @@
-﻿  searching.cpp
-searching.obj : error LNK2005: main already defined in avarage.obj
-D:\25.11.6536\08\x64\Debug\08.exe : fatal error LNK1169: one or more multiply defined symbols found
